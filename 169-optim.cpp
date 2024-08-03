@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Boyer–Moore_majority_vote_algorithm
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
